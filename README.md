@@ -1,8 +1,5 @@
-# COVID-19 Tracker
-### Contact
-* [Discord](https://discord.gg/T4BMtSu)
+# Covid-19 Tracker
+<a href="https://discord.gg/P578T3aYbj"><img src="http://invidget.switchblade.xyz/HWjPAAs9d3"/></a>
 
 ### Creators / Developers
 👤 Eleven
-<br>
-👤 Cenap
